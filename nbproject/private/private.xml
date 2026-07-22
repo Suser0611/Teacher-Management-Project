@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/dao/DatabaseConnection.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/web/index.html</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/util/ValidationUtil.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/dao/ScheduleRequestDAO.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/dao/TeacherDAO.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/servlet/UploadAvatarServlet.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/web/home.jsp</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/web/profile.jsp</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/servlet/ScheduleServlet.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/web/change-schedule.jsp</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/model/ScheduleRequest.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/model/Course.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/dao/CourseDAO.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/web/login.jsp</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/servlet/HomeServlet.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/model/Teacher.java</file>
+            <file>file:/C:/Users/vsdan/Documents/NetBeansProjects/ScheduleManagementSystem/src/java/com/sms/servlet/ProfileServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
